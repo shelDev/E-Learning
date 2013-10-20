@@ -1,10 +1,10 @@
 E-Learning
 ==========
 
-The Online learning ( Web is your School)
-Coursera
-Link : https://www.coursera.org/
-Recommended for: Amazing Online learning portal for anything and everything especially for STEM and Business Related courses. 
+The Online learning ( Web is your School)<br>
+Coursera<br>
+Link : https://www.coursera.org/<br>
+Recommended for: Amazing Online learning portal for anything and everything especially for STEM and Business Related courses. <br>
 
 Code Academy
 Link : www.codecademy.com/
